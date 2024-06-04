@@ -50,9 +50,6 @@ You can access the deployed application using the following link:
 ```plaintext
 .
 ├── app.py
-├── model
-│   └── alzheimer_model.keras
-├── requirements.txt
-├── README.md
-└── .streamlit
-    └── config.toml
+├── alzheimer_model.keras
+├── requirements.txt
+└── README.md
